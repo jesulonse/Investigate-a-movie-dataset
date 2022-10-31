@@ -10,14 +10,14 @@ The final two columns ending with `“_adj”` show the budget and revenue of th
 ### Question(s) for Analysis
 - Which director made the most popular movie?
 
-- What period of the year(release date) grossed the greatest revenue? Based on this information, the director can choose to release the movie at such period in the year.
+- What period of the year(release date) grossed the greatest revenue? Based on this information, the director can choose to release the movie at such a period in the year.
 
-- Does higher budget necessarily leads to higher revenue?
+- Does a higher budget necessarily leads to higher revenue?
 
-- That a movie is highly voted for on the average necessarily mean the movie is widely accepted(popularity)?
+- That a movie is highly voted for on average necessarily means the movie is widely accepted(popularity)?
 
-- What year had the highest movie releases?
+- What year had the highest number of movie releases?
 
 - Which movie i.e.original title( alongide its genre, director) is highly rated.
 
-- Do people appreciate longer time movies or not?
+- Do people appreciate longer-time movies or not?
